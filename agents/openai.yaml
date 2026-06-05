@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Image Redraw"
+  short_description: "Redraw image slides into editable PPTX"
+  default_prompt: "Use $ppt-image-redraw to redraw this image slide into an editable PowerPoint deck."
